@@ -35,6 +35,7 @@ npm start
 L'application s'ouvre sur http://localhost:3000
 
 🧠 Fonctionnement quantique
+
 Pierre → état initial |0⟩ (aucune porte appliquée)
 
 Feuille → applique une porte X (passe à |1⟩)
